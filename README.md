@@ -27,6 +27,6 @@ I'm a college student studying Computer Engineering, and I really enjoy technolo
 - Basketball
 - Anime
 
-##Certifications
+## Certifications
 -National Youth Convention(NYC)
 
